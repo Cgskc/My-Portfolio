@@ -1,11 +1,10 @@
 ---
 type: PostLayout
-title: Sharing my wisdom with the world 🌎
+title: "Sharing my wisdom with the world \U0001F30E"
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
@@ -45,7 +44,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -102,6 +101,12 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+media:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.

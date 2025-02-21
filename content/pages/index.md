@@ -14,7 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Hi, I''m a Localization Specialist and this is my Portfolio!'
-    subtitle: ''
+    subtitle: >-
+      Translation meets technology—where AI, CAT tools and automation transform
+      words into seamless communication. Welcome to my portfolio! Scroll down to
+      see more!
     styles:
       self:
         height: auto

@@ -53,7 +53,12 @@ sections:
         url: /images/gallery-1.jpg
         altText: Image one
         caption: Image one caption
-        elementId: ''
+        elementId: >-
+          <div class="photo-grid">  <div class="photo-item"><img
+          src="resim1.jpg" alt="Proje 1"></div>  <div class="photo-item"><img
+          src="resim2.jpg" alt="Proje 2"></div>  <div class="photo-item"><img
+          src="resim3.jpg" alt="Proje 3"></div>  <!-- Daha fazla resim
+          ekleyebilirsiniz --></div>
       - type: ImageBlock
         url: /images/gallery-2.jpg
         altText: Image two

@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: 'Hi, I''m a Localization Specialist and this is my Portfolio!'
     subtitle: >-
       Translation meets technology—where AI, CAT tools and automation transform

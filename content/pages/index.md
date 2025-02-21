@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
     title: 'Hi, I''m a Localization Specialist and this is my Portfolio!'
     subtitle: >-
